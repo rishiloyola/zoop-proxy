@@ -1,0 +1,14 @@
+{
+	"ImportPath": "github.com/rishiloyola/zoop-pipe",
+	"GoVersion": "go1.4",
+	"Deps": [
+		{
+			"ImportPath": "github.com/rishiloyola/zoop-client",
+			"Rev": "9630b2772e420c47d0a1c460db171bc59dbfc710"
+		},
+		{
+			"ImportPath": "github.com/samuel/go-zookeeper/zk",
+			"Rev": "218e9c81c0dd8b3b18172b2bbfad92cc7d6db55f"
+		}
+	]
+}

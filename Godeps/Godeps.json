@@ -1,0 +1,22 @@
+{
+	"ImportPath": "github.com/rishiloyola/zoop-proxy",
+	"GoVersion": "go1.4",
+	"Deps": [
+		{
+			"ImportPath": "github.com/rishiloyola/zoop-client",
+			"Rev": "063b75062432c3785f29a912c24e3c9eddabe8ca"
+		},
+		{
+			"ImportPath": "github.com/rishiloyola/zoop-pipe",
+			"Rev": "4f650a06c074b1201232c882205dcf1852fbf943"
+		},
+		{
+			"ImportPath": "github.com/samuel/go-zookeeper/zk",
+			"Rev": "218e9c81c0dd8b3b18172b2bbfad92cc7d6db55f"
+		},
+		{
+			"ImportPath": "stathat.com/c/consistent",
+			"Rev": "748f01b59d1b2218efe39513039e9ee31266d7c7"
+		}
+	]
+}
